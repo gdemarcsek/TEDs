@@ -1,5 +1,8 @@
 TED talks collection
 =====================
+http://www.ted.com/talks/larry_smith_why_you_will_fail_to_have_a_great_career
+http://www.ted.com/talks/michael_dickinson_how_a_fly_flies
+http://www.ted.com/talks/daniel_levitin_how_to_stay_calm_when_you_know_you_ll_be_stressed
 http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
 http://www.ted.com/talks/daniel_goldstein_the_battle_between_your_present_and_future_self?awesm=on.ted.com_s01Oc&utm_source=facebook.com&utm_medium=on.ted.com-facebook-share&utm_content=awesm-publisher&utm_campaign=#t-176403
 http://www.ted.com/talks/margaret_gould_stewart_how_giant_websites_design_for_you_and_a_billion_others_too
@@ -63,3 +66,4 @@ http://www.ted.com/talks/jamie_bartlett_how_the_mysterious_dark_net_is_going_mai
 http://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong
 http://www.ted.com/talks/alan_eustace_i_leapt_from_the_stratosphere_here_s_how_i_did_it
 http://www.ted.com/talks/barry_schwartz_the_way_we_think_about_work_is_broken
+http://www.ted.com/talks/mac_stone_stunning_photos_of_the_endangered_everglades
